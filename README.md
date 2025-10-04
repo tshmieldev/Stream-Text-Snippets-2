@@ -101,8 +101,8 @@ Output: This is confusing Clueless
 
 ### Text Multiplication
 ```
-Input: spam\3
-Output: spamspamspam
+Input: spam \3
+Output: spam spam spam
 ```
 
 ### Complex Nested Examples
@@ -117,7 +117,7 @@ Output: TEA TIME teaTime
 ### API Integration
 ```
 Input: $catFact
-Output: Cats have five toes on their front paws, but only four toes on their back paws.
+Output: Cats have five toes on their front paws, but only four toes on their back paws. (Fetched from API on demand)
 ```
 
 ## Browser Compatibility
@@ -136,7 +136,7 @@ Output: Cats have five toes on their front paws, but only four toes on their bac
 
 ## Contributing
 
-This project appears to be a personal userscript. To contribute:
+To contribute:
 
 1. Fork the repository
 2. Make your changes
