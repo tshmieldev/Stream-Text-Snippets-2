@@ -57,22 +57,21 @@ The script uses a special syntax for text transformation:
 
 ### Emote Shortcuts
 
-| Shortcut | Emote | Full Name |
-|----------|-------|-----------|
-| `\o` | OMEGALUL | OMEGALUL |
-| `\ppp` | Pepepains | Pepepains |
-| `\fh` | 4HEad | 4HEad |
-| `\fho` | 4House | 4House |
-| `\fle` | flushE | flushE |
-| `\pl` | pepeLaugh | pepeLaugh |
-| `\cl` | Clueless | Clueless |
-| `\ms` | monkaS | monkaS |
-| `\shrug` | ¯\\_(ツ)_/¯ | Shrug emoticon |
-| `\tea` | TeaTime | TeaTime |
-| `\warn` | :warning: | Warning emoji |
-| `\l` | LUL | LUL |
-| `\gg` | Good Game | Good Game |
-| `\sad` | Sadge | Sadge |
+| Shortcut | Emote |
+|----------|-------|
+| `\o` | OMEGALUL |
+| `\ppp` | Pepepains |
+| `\fh` | 4HEad |
+| `\fho` | 4House |
+| `\pl` | pepeLaugh |
+| `\cl` | Clueless |
+| `\ms` | monkaS |
+| `\shrug` | ¯\\_(ツ)_/¯ |
+| `\tea` | TeaTime |
+| `\warn` | :warning: |
+| `\l` | LUL |
+| `\gg` | Good Game |
+| `\sad` | Sadge |
 
 ## Examples
 
