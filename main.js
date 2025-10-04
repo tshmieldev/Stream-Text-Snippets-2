@@ -441,7 +441,6 @@ function main() {
 				ppp: 'Pepepains',
 				fh: '4HEad',
 				fho: '4House',
-				fle: 'flushE',
 				pl: 'pepeLaugh',
 				cl: 'Clueless',
 				ms: 'monkaS',
